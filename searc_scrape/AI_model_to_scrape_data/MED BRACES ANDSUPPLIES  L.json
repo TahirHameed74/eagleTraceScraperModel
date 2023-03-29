@@ -1,0 +1,32 @@
+{
+  "NPI": [
+    {
+      "NPI": "1336611870",
+      "EntityType": "Organization",
+      "IsOrgSubpart": "N",
+      "OrgName": "MED BRACES AND SUPPLIES, LLC",
+      "FirstLineMailingAddress": "1484 SE VILLAGE GREEN DR",
+      "MailingAddressCityName": "PORT ST LUCIE",
+      "MailingAddressStateName": "FL",
+      "MailingAddressPostalCode": "34952",
+      "MailingAddressCountryCode": "US",
+      "MailingAddressTelephoneNumber": "772-398-7010",
+      "FirstLinePracticeLocationAddress": "1484 SE VILLAGE GREEN DR",
+      "PracticeLocationAddressCityName": "PORT ST LUCIE",
+      "PracticeLocationAddressStateName": "FL",
+      "PracticeLocationAddressPostalCode": "34952",
+      "PracticeLocationAddressCountryCode": "US",
+      "PracticeLocationAddressTelephoneNumber": "772-398-7010",
+      "EnumerationDate": "12/21/2018",
+      "LastUpdateDate": "09/12/2019",
+      "AuthorizedOfficialLastName": "MCGOEY",
+      "AuthorizedOfficialFirstName": "KEVIN",
+      "AuthorizedOfficialTitle": "MEMBER MANAGER",
+      "AuthorizedOfficialTelephoneNumber": "772-398-7010",
+      "TaxonomyCode1": "332B00000X",
+      "Taxonomy1": "Durable Medical Equipment & Medical Supplies",
+      "PrimaryTaxonomySwitch1": "Y"
+    }
+  ]
+}
+                
